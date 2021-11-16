@@ -18,6 +18,7 @@ public static void main(String[] args) {
 	System.out.println(tr.size());
 	for (int i=0;i<tr.size();i++) {
 		System.out.println(tr.get(i));
+		System.out.println("manu");
 	}
 }
 	
